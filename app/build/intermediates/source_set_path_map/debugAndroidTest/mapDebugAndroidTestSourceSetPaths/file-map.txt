@@ -1,0 +1,5 @@
+kz.kaspi.qr.test.app-androidTest-0 /Users/emaklakov/Projects/kaspi-qr-app/app/build/generated/res/resValues/androidTest/debug
+kz.kaspi.qr.test.app-updated_navigation_xml-1 /Users/emaklakov/Projects/kaspi-qr-app/app/build/generated/updated_navigation_xml/debugAndroidTest
+kz.kaspi.qr.test.app-mergeDebugAndroidTestResources-2 /Users/emaklakov/Projects/kaspi-qr-app/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+kz.kaspi.qr.test.app-mergeDebugAndroidTestResources-3 /Users/emaklakov/Projects/kaspi-qr-app/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+kz.kaspi.qr.test.app-debugAndroidTest-4 /Users/emaklakov/Projects/kaspi-qr-app/app/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources

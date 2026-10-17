@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shortcuts xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <shortcut
+        android:shortcutId="kaspi_transfers"
+        android:enabled="true"
+        android:icon="@drawable/ic_shortcut_transfer"
+        android:shortcutShortLabel="@string/shortcut_transfers_short"
+        android:shortcutLongLabel="@string/shortcut_transfers_long">
+        <intent
+            android:action="kz.kaspi.qr.ACTION_OPEN_TRANSFERS"
+            android:targetPackage="kz.kaspi.qr"
+            android:targetClass="kz.kaspi.qr.MainActivity" />
+        <categories android:name="android.shortcut.conversation" />
+    </shortcut>
+
+</shortcuts>

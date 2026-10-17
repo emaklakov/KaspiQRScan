@@ -1,0 +1,1 @@
+-keep class kz.kaspi.qr.** { *; }

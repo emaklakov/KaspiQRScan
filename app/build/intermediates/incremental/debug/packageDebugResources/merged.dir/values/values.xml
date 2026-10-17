@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_background">#FF4431</color>
+    <string name="app_name">Kaspi QR</string>
+    <string name="shortcut_transfers_long">Kaspi Transfers</string>
+    <string name="shortcut_transfers_short">Transfers</string>
+    <style name="Theme.KaspiQR" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+    </style>
+</resources>
