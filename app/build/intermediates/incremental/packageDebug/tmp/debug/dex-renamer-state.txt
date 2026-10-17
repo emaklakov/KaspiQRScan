@@ -1,4 +1,4 @@
-#Sat Oct 17 16:35:07 AQTT 2026
+#Sat Oct 17 16:46:34 AQTT 2026
 base.0=/Users/emaklakov/Projects/kaspi-qr-app/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
 base.1=/Users/emaklakov/Projects/kaspi-qr-app/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
 base.2=/Users/emaklakov/Projects/kaspi-qr-app/app/build/intermediates/dex/debug/mergeProjectDexDebug/1/classes.dex

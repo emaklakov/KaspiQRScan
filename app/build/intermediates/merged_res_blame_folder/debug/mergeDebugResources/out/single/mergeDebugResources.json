@@ -1,107 +1,51 @@
 [
     {
-        "merged": "kz.kaspi.qr.app-debug-31:/mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "kz.kaspi.qr.app-main-33:/mipmap-xxhdpi/ic_launcher_round.png"
-    },
-    {
-        "merged": "/Users/emaklakov/.gradle/daemon/8.13/kz.kaspi.qr.app-debug-31:/mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "/Users/emaklakov/.gradle/daemon/8.13/kz.kaspi.qr.app-main-33:/mipmap-xxhdpi/ic_launcher_round.png"
-    },
-    {
-        "merged": "/Users/emaklakov/.gradle/daemon/8.13/kz.kaspi.qr.app-debug-31:/mipmap-mdpi_ic_launcher.png.flat",
-        "source": "/Users/emaklakov/.gradle/daemon/8.13/kz.kaspi.qr.app-main-33:/mipmap-mdpi/ic_launcher.png"
-    },
-    {
-        "merged": "kz.kaspi.qr.app-debug-31:/mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "kz.kaspi.qr.app-main-33:/mipmap-xhdpi/ic_launcher_round.png"
-    },
-    {
-        "merged": "kz.kaspi.qr.app-debug-31:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
-        "source": "kz.kaspi.qr.app-main-33:/mipmap-xxxhdpi/ic_launcher_foreground.png"
-    },
-    {
-        "merged": "kz.kaspi.qr.app-debug-31:/mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "kz.kaspi.qr.app-main-33:/mipmap-xhdpi/ic_launcher.png"
-    },
-    {
-        "merged": "/Users/emaklakov/.gradle/daemon/8.13/kz.kaspi.qr.app-debug-31:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "/Users/emaklakov/.gradle/daemon/8.13/kz.kaspi.qr.app-main-33:/mipmap-xxxhdpi/ic_launcher_round.png"
-    },
-    {
-        "merged": "kz.kaspi.qr.app-debug-31:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
-        "source": "kz.kaspi.qr.app-main-33:/mipmap-xhdpi/ic_launcher_foreground.png"
-    },
-    {
-        "merged": "kz.kaspi.qr.app-debug-31:/mipmap-mdpi_ic_launcher.png.flat",
-        "source": "kz.kaspi.qr.app-main-33:/mipmap-mdpi/ic_launcher.png"
-    },
-    {
-        "merged": "kz.kaspi.qr.app-debug-31:/mipmap-hdpi_ic_launcher_foreground.png.flat",
-        "source": "kz.kaspi.qr.app-main-33:/mipmap-hdpi/ic_launcher_foreground.png"
-    },
-    {
-        "merged": "/Users/emaklakov/.gradle/daemon/8.13/kz.kaspi.qr.app-debug-31:/drawable_ic_shortcut_transfer.xml.flat",
-        "source": "/Users/emaklakov/.gradle/daemon/8.13/kz.kaspi.qr.app-main-33:/drawable/ic_shortcut_transfer.xml"
-    },
-    {
-        "merged": "kz.kaspi.qr.app-debug-31:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
-        "source": "kz.kaspi.qr.app-main-33:/mipmap-xxhdpi/ic_launcher_foreground.png"
-    },
-    {
-        "merged": "/Users/emaklakov/.gradle/daemon/8.13/kz.kaspi.qr.app-debug-31:/mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "/Users/emaklakov/.gradle/daemon/8.13/kz.kaspi.qr.app-main-33:/mipmap-xhdpi/ic_launcher_round.png"
-    },
-    {
         "merged": "/Users/emaklakov/.gradle/daemon/8.13/kz.kaspi.qr.app-debug-31:/mipmap-mdpi_ic_launcher_round.png.flat",
         "source": "/Users/emaklakov/.gradle/daemon/8.13/kz.kaspi.qr.app-main-33:/mipmap-mdpi/ic_launcher_round.png"
     },
     {
-        "merged": "kz.kaspi.qr.app-debug-31:/mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "kz.kaspi.qr.app-main-33:/mipmap-mdpi/ic_launcher_round.png"
+        "merged": "/Users/emaklakov/.gradle/daemon/8.13/kz.kaspi.qr.app-debug-31:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/emaklakov/.gradle/daemon/8.13/kz.kaspi.qr.app-main-33:/mipmap-xxxhdpi/ic_launcher_foreground.png"
     },
     {
         "merged": "/Users/emaklakov/.gradle/daemon/8.13/kz.kaspi.qr.app-debug-31:/mipmap-xxhdpi_ic_launcher.png.flat",
         "source": "/Users/emaklakov/.gradle/daemon/8.13/kz.kaspi.qr.app-main-33:/mipmap-xxhdpi/ic_launcher.png"
     },
     {
-        "merged": "kz.kaspi.qr.app-debug-31:/mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "kz.kaspi.qr.app-main-33:/mipmap-xxxhdpi/ic_launcher.png"
-    },
-    {
-        "merged": "kz.kaspi.qr.app-debug-31:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "kz.kaspi.qr.app-main-33:/mipmap-xxxhdpi/ic_launcher_round.png"
-    },
-    {
-        "merged": "kz.kaspi.qr.app-debug-31:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "kz.kaspi.qr.app-main-33:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "/Users/emaklakov/.gradle/daemon/8.13/kz.kaspi.qr.app-debug-31:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/emaklakov/.gradle/daemon/8.13/kz.kaspi.qr.app-main-33:/mipmap-xxhdpi/ic_launcher_round.png"
     },
     {
         "merged": "/Users/emaklakov/.gradle/daemon/8.13/kz.kaspi.qr.app-debug-31:/mipmap-hdpi_ic_launcher.png.flat",
         "source": "/Users/emaklakov/.gradle/daemon/8.13/kz.kaspi.qr.app-main-33:/mipmap-hdpi/ic_launcher.png"
     },
     {
-        "merged": "kz.kaspi.qr.app-debug-31:/mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "kz.kaspi.qr.app-main-33:/mipmap-xxhdpi/ic_launcher.png"
+        "merged": "/Users/emaklakov/.gradle/daemon/8.13/kz.kaspi.qr.app-debug-31:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/emaklakov/.gradle/daemon/8.13/kz.kaspi.qr.app-main-33:/mipmap-mdpi/ic_launcher.png"
     },
     {
         "merged": "/Users/emaklakov/.gradle/daemon/8.13/kz.kaspi.qr.app-debug-31:/mipmap-xxxhdpi_ic_launcher.png.flat",
         "source": "/Users/emaklakov/.gradle/daemon/8.13/kz.kaspi.qr.app-main-33:/mipmap-xxxhdpi/ic_launcher.png"
     },
     {
-        "merged": "kz.kaspi.qr.app-debug-31:/mipmap-mdpi_ic_launcher_foreground.png.flat",
-        "source": "kz.kaspi.qr.app-main-33:/mipmap-mdpi/ic_launcher_foreground.png"
+        "merged": "/Users/emaklakov/.gradle/daemon/8.13/kz.kaspi.qr.app-debug-31:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/emaklakov/.gradle/daemon/8.13/kz.kaspi.qr.app-main-33:/mipmap-xxhdpi/ic_launcher_foreground.png"
     },
     {
-        "merged": "kz.kaspi.qr.app-debug-31:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "kz.kaspi.qr.app-main-33:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "/Users/emaklakov/.gradle/daemon/8.13/kz.kaspi.qr.app-debug-31:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/emaklakov/.gradle/daemon/8.13/kz.kaspi.qr.app-main-33:/mipmap-xhdpi/ic_launcher.png"
     },
     {
         "merged": "/Users/emaklakov/.gradle/daemon/8.13/kz.kaspi.qr.app-debug-31:/layout_activity_main.xml.flat",
         "source": "/Users/emaklakov/.gradle/daemon/8.13/kz.kaspi.qr.app-main-33:/layout/activity_main.xml"
     },
     {
-        "merged": "/Users/emaklakov/.gradle/daemon/8.13/kz.kaspi.qr.app-debug-31:/mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "/Users/emaklakov/.gradle/daemon/8.13/kz.kaspi.qr.app-main-33:/mipmap-xhdpi/ic_launcher.png"
+        "merged": "/Users/emaklakov/.gradle/daemon/8.13/kz.kaspi.qr.app-debug-31:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/emaklakov/.gradle/daemon/8.13/kz.kaspi.qr.app-main-33:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/emaklakov/.gradle/daemon/8.13/kz.kaspi.qr.app-debug-31:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/emaklakov/.gradle/daemon/8.13/kz.kaspi.qr.app-main-33:/mipmap-hdpi/ic_launcher_foreground.png"
     },
     {
         "merged": "/Users/emaklakov/.gradle/daemon/8.13/kz.kaspi.qr.app-debug-31:/xml_shortcuts.xml.flat",
@@ -112,11 +56,31 @@
         "source": "/Users/emaklakov/.gradle/daemon/8.13/kz.kaspi.qr.app-main-33:/mipmap-hdpi/ic_launcher_round.png"
     },
     {
-        "merged": "kz.kaspi.qr.app-debug-31:/mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "kz.kaspi.qr.app-main-33:/mipmap-hdpi/ic_launcher_round.png"
+        "merged": "/Users/emaklakov/.gradle/daemon/8.13/kz.kaspi.qr.app-debug-31:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/emaklakov/.gradle/daemon/8.13/kz.kaspi.qr.app-main-33:/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
-        "merged": "kz.kaspi.qr.app-debug-31:/mipmap-hdpi_ic_launcher.png.flat",
-        "source": "kz.kaspi.qr.app-main-33:/mipmap-hdpi/ic_launcher.png"
+        "merged": "/Users/emaklakov/.gradle/daemon/8.13/kz.kaspi.qr.app-debug-31:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/emaklakov/.gradle/daemon/8.13/kz.kaspi.qr.app-main-33:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/emaklakov/.gradle/daemon/8.13/kz.kaspi.qr.app-debug-31:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/emaklakov/.gradle/daemon/8.13/kz.kaspi.qr.app-main-33:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/emaklakov/.gradle/daemon/8.13/kz.kaspi.qr.app-debug-31:/drawable_ic_shortcut_transfer.xml.flat",
+        "source": "/Users/emaklakov/.gradle/daemon/8.13/kz.kaspi.qr.app-main-33:/drawable/ic_shortcut_transfer.xml"
+    },
+    {
+        "merged": "kz.kaspi.qr.app-debug-31:/drawable_ic_shortcut_transfer.xml.flat",
+        "source": "kz.kaspi.qr.app-main-33:/drawable/ic_shortcut_transfer.xml"
+    },
+    {
+        "merged": "/Users/emaklakov/.gradle/daemon/8.13/kz.kaspi.qr.app-debug-31:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/emaklakov/.gradle/daemon/8.13/kz.kaspi.qr.app-main-33:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/emaklakov/.gradle/daemon/8.13/kz.kaspi.qr.app-debug-31:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/emaklakov/.gradle/daemon/8.13/kz.kaspi.qr.app-main-33:/mipmap-xhdpi/ic_launcher_round.png"
     }
 ]
