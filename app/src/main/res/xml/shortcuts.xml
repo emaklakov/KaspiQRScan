@@ -14,4 +14,17 @@
         <categories android:name="android.shortcut.conversation" />
     </shortcut>
 
+    <shortcut
+        android:shortcutId="kaspi_gov_services"
+        android:enabled="true"
+        android:icon="@drawable/ic_shortcut_gov_services"
+        android:shortcutShortLabel="@string/shortcut_gov_services_short"
+        android:shortcutLongLabel="@string/shortcut_gov_services_long">
+        <intent
+            android:action="kz.kaspi.qr.ACTION_OPEN_GOV_SERVICES"
+            android:targetPackage="kz.kaspi.qr"
+            android:targetClass="kz.kaspi.qr.MainActivity" />
+        <categories android:name="android.shortcut.conversation" />
+    </shortcut>
+
 </shortcuts>

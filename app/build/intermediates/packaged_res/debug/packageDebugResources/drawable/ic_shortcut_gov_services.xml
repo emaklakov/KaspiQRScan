@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+
+    <!-- Red circle background -->
+    <path
+        android:fillColor="#F14635"
+        android:pathData="M24,24m-24,0a24,24 0,1 1,48 0a24,24 0,1 1,-48 0" />
+
+    <!-- Gov Services icon (Building / Columns) -->
+    <!-- Triangular Roof / Pediment -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M24,13 L35,19 L13,19 Z" />
+
+    <!-- Beam below roof -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M13,20.5 H35 V22 H13 Z" />
+
+    <!-- 4 Columns -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M15.5,23.5 H18 V30.5 H15.5 Z M20.5,23.5 H23 V30.5 H20.5 Z M25,23.5 H27.5 V30.5 H25 Z M30,23.5 H32.5 V30.5 H30 Z" />
+
+    <!-- Upper step base -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M14,31.5 H34 V33 H14 Z" />
+
+    <!-- Lower step base -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M12,33.5 H36 V35 H12 Z" />
+
+</vector>

@@ -3,4 +3,6 @@
     <string name="app_name">Kaspi QR</string>
     <string name="shortcut_transfers_short">Переводы</string>
     <string name="shortcut_transfers_long">Kaspi Переводы</string>
+    <string name="shortcut_gov_services_short">Госуслуги</string>
+    <string name="shortcut_gov_services_long">Kaspi Госуслуги</string>
 </resources>

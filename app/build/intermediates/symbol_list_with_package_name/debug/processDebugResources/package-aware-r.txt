@@ -2905,6 +2905,7 @@ drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
 drawable ic_search_black_24
+drawable ic_shortcut_gov_services
 drawable ic_shortcut_transfer
 drawable m3_avd_hide_password
 drawable m3_avd_show_password
@@ -3781,6 +3782,8 @@ string search_menu_title
 string searchbar_scrolling_view_behavior
 string searchview_clear_text_content_description
 string searchview_navigation_content_description
+string shortcut_gov_services_long
+string shortcut_gov_services_short
 string shortcut_transfers_long
 string shortcut_transfers_short
 string side_sheet_accessibility_pane_title

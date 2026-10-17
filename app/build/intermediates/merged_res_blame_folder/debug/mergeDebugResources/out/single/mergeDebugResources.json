@@ -32,6 +32,10 @@
         "source": "/Users/emaklakov/.gradle/daemon/8.13/kz.kaspi.qr.app-main-33:/mipmap-xxhdpi/ic_launcher_foreground.png"
     },
     {
+        "merged": "kz.kaspi.qr.app-debug-31:/xml_shortcuts.xml.flat",
+        "source": "kz.kaspi.qr.app-main-33:/xml/shortcuts.xml"
+    },
+    {
         "merged": "/Users/emaklakov/.gradle/daemon/8.13/kz.kaspi.qr.app-debug-31:/mipmap-xhdpi_ic_launcher.png.flat",
         "source": "/Users/emaklakov/.gradle/daemon/8.13/kz.kaspi.qr.app-main-33:/mipmap-xhdpi/ic_launcher.png"
     },
@@ -68,12 +72,12 @@
         "source": "/Users/emaklakov/.gradle/daemon/8.13/kz.kaspi.qr.app-main-33:/mipmap-mdpi/ic_launcher_foreground.png"
     },
     {
-        "merged": "/Users/emaklakov/.gradle/daemon/8.13/kz.kaspi.qr.app-debug-31:/drawable_ic_shortcut_transfer.xml.flat",
-        "source": "/Users/emaklakov/.gradle/daemon/8.13/kz.kaspi.qr.app-main-33:/drawable/ic_shortcut_transfer.xml"
+        "merged": "kz.kaspi.qr.app-debug-31:/drawable_ic_shortcut_gov_services.xml.flat",
+        "source": "kz.kaspi.qr.app-main-33:/drawable/ic_shortcut_gov_services.xml"
     },
     {
-        "merged": "kz.kaspi.qr.app-debug-31:/drawable_ic_shortcut_transfer.xml.flat",
-        "source": "kz.kaspi.qr.app-main-33:/drawable/ic_shortcut_transfer.xml"
+        "merged": "/Users/emaklakov/.gradle/daemon/8.13/kz.kaspi.qr.app-debug-31:/drawable_ic_shortcut_transfer.xml.flat",
+        "source": "/Users/emaklakov/.gradle/daemon/8.13/kz.kaspi.qr.app-main-33:/drawable/ic_shortcut_transfer.xml"
     },
     {
         "merged": "/Users/emaklakov/.gradle/daemon/8.13/kz.kaspi.qr.app-debug-31:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
